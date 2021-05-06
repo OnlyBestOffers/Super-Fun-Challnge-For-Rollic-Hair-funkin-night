@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "f6678849",
+	"ironId": "",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 
@@ -11,9 +11,9 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-3287470478103394~4966427971",
-	"interId": "ca-app-pub-3287470478103394/8714101291",
-	"bannerId": "ca-app-pub-3287470478103394/3541665660",
-	"rewardadmob": "ca-app-pub-3287470478103394/6987739045",
+	"interId": "",
+	"bannerId": "",
+	"rewardadmob": "",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
@@ -23,7 +23,7 @@
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "4110774",
+	"UnityAppId": "",
 	"UnityInter": "Interstitial_Android",
 	"Unitybanner": "Banner_Android",
 	"unityreward": "Rewarded_Android"
